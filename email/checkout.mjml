@@ -1,0 +1,147 @@
+<mjml>
+<mj-body background-color= "#E4E6EB"
+>
+<mj-section background-color= "#ffffff"
+padding-bottom = "0px"
+padding-top= "0px" border-bottom= "2px dashed #eee">
+<mj-column vertical-align="top" width="100%">
+<mj-image
+     src="images/logo_salman@2x.png"
+     alt="" align="center" border="none"
+     width="180px" padding-right="0px"
+     padding-left="0px" padding-top="30px"
+     padding-bottom="25px" />
+</mj-column>
+</mj-section>
+<mj-section background-color= "#ffffff" padding-bottom = "0px"
+padding-top= "0px" border-bottom= "2px dashed #eee">
+<mj-column vertical-align="top" width="100%">
+<mj-text align="center" color="#071C4D"
+font-size="30px" font-weight="bold" font-family="
+Playfair Display, Times New Roman, Serif" 
+padding-left="25px" padding-right="25px" padding-bottom=
+"30px" padding-top="30px">
+    DON`T FORGET YOUR TICKET!
+</mj-text>
+</mj-column>
+</mj-section>
+<mj-section background-color= "#ffffff"
+ padding-bottom = "0px"
+padding-top= "0px">
+<mj-column vertical-align="top" width="100%">
+<mj-image
+     src="images/pic_featured@2x.jpg"
+     alt="" align="center" border="none"
+     width="550px" padding-right="0px"
+     padding-left="0px" padding-top="0px"
+     padding-bottom="0px" />
+</mj-column>
+</mj-section>
+<mj-section background-color= "#ffffff"
+ padding-bottom = "20px"
+padding-top= "20px" border-bottom=
+"2px dashed #eee">
+<mj-column vertical-align="middle" 
+width="100%"
+border-bottom="2px dashed #eee" padding-bottom
+="30px">
+<mj-text align="left" color="#071C4D"
+font-size="18px" line-height="21px" font-family="
+Assistant, Helvetica, Arial, sans-serif" 
+padding-left="25px" padding-right="25px">
+    Hi, Salman H
+    <br><br>
+    Tiket digital anda sudah berhasil dicetak,
+    <br>
+    Booking ID <strong>#240122</strong>
+</mj-text>
+<mj-table color="#071C4D"
+font-size="18px" line-height="21px" font-family="
+Assistant, Helvetica, Arial, sans-serif" 
+padding-left="25px" padding-right="25px">
+   <tr>
+        <td colspan="3">Members</td>
+   </tr>
+   <tr>
+        <td><strong>Salman H</strong></td>
+        <td style="text-align:right;">Indonesia ,ID</td>
+   </tr>
+   <tr>
+        <td><strong>Salsabila Hernandez</strong></td>
+        <td style="text-align:right;">Singapore ,SG</td>
+   </tr>
+</mj-table>
+<mj-table color="#071C4D"
+font-size="18px" line-height="21px" font-family="
+Assistant, Helvetica, Arial, sans-serif" 
+padding-left="25px" padding-right="25px">
+   <tr>
+        <td colspan="3">Travel Details</td>
+   </tr>
+   <tr>
+        <td><strong>Departure</strong></td>
+        <td style="text-align:right;">Nusa Penida</td>
+   </tr>
+   <tr>
+        <td><strong>Date and Time</strong></td>
+        <td style="text-align:right;">Mon, 
+        24 Jan, 2022</td>
+   </tr>
+</mj-table>
+<mj-button align="center"
+font-size="18px" font-weight="bold"
+background-color="#ff9e53" border-radius="
+10px" color="#fff" font-family="
+Assistant,Helvetica, Arial, sans-serif">
+Check Details
+          </mj-button>
+     </mj-column>
+</mj-section>
+<mj-section background-color= "#ffffff"
+ padding-bottom = "0px"
+padding-top= "0px">
+<mj-column vertical-align="middle" 
+width="100%"
+>
+<mj-text align="left" color="#071C4D"
+font-size="18px" line-height="21px" font-family="
+Assistant, Helvetica, Arial, sans-serif" 
+padding-left="25px" padding-right="25px">
+    Need help?
+          </mj-text>
+     </mj-column>
+</mj-section>
+<mj-section background-color= "#ffffff"
+ padding-bottom = "20px"
+padding-top= "0px">
+<mj-column>
+<mj-table>
+   <tr>
+        <td style="width: 50px;">
+        <img src="images/24 hours@2x.png" width="50px">
+        </td>
+        <td style="font-size:18px; padding-left:10px;
+        color: #071C4D; font-family: Assistant,Helvetica,
+        Arial, sans-serif">
+            support@salman.id
+            <br>
+            0895-1292-9676
+        </td>
+     </tr>
+     </mj-table>
+     </mj-column>
+</mj-section>
+<mj-section padding-bottom="30px"
+padding-top="3px">
+   <mj-column>
+        <mj-text align="center" color="#888b93"
+        font-size="18px" font-family= "Assistant,Helvetica,
+        Arial, sans-serif" padding-left="25px"
+        padding-right="25px" padding-top="25px"
+        padding-bottom="0px">
+        2021 Salman Copyright All Rights Reserved
+        </mj-text>
+   </mj-column>  
+</mj-section>
+</mj-body>
+</mjml>
